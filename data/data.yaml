@@ -1,0 +1,9 @@
+train: pose/images/train/ 
+val:  pose/images/val/
+test: pose/images/test/
+
+# number of classes
+nc: 6
+
+# class names
+names: ["0","1","2","3","4","5"]
